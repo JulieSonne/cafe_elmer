@@ -1,0 +1,50 @@
+/*
+Theme Name: Twenty seventeen Child
+Theme URI: http://example.com/twenty-seventeen-child/
+Description: Twenty seventeen Child Theme
+Author: Julie Agertoft Sonne
+Author URI: http://example.com
+Template: twentyseventeen
+Version: 1.0.0
+*/
+
+/*Fjern: dato på posts*/
+.entry-date {
+display: none;
+}
+
+/*Fjern: Edit på posts*/
+.entry-meta {
+	display: none;
+}
+
+/*Fjern: Proudly Powered By WordPress i footer*/
+.site-info { 
+	display: none; 
+}
+
+/*Fjern: teksten post på posts*/
+.page-title {
+	display: none;
+}
+
+/*Ændering i footer*/
+.site-footer {
+	background: #A3BADF;
+}
+
+/*Centeret footer*/
+h2.widget-title {
+text-align: center;
+width: 100%;
+}
+.textwidget {
+	text-align: center;
+width: 100%;
+}
+#media_image-2 {
+		text-align: center;
+width: 100%;
+}
+
+
